@@ -1,7 +1,7 @@
 # Restaurant POS System
   This application is for restaurants to help them manage reservations, bills.  Application enable restaurants to manage their work, reserve tables, add food or drinks to table bill, print receipts to customers.  Also Application admin can manage food menu, add, delete food items, edit table numbers and delete tables.  Admin can add employees with custom permissions to access sections of the application with user and pass.
 
-## Demo Video : [Youtube](https://www.youtube.com/watch?v=bqiwTP03Zko&t=156s)
+## Demo Video : [https://www.youtube.com/watch?v=bqiwTP03Zko&t=156s](https://www.youtube.com/watch?v=bqiwTP03Zko&t=156s)
 
 ## How to use the application:
 This Login frame will appear when run the application after splash screen disappears. 
