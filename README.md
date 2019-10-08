@@ -1,7 +1,9 @@
 # Restaurant POS System
   This application is for restaurants to help them manage reservations, bills.  Application enable restaurants to manage their work, reserve tables, add food or drinks to table bill, print receipts to customers.  Also Application admin can manage food menu, add, delete food items, edit table numbers and delete tables.  Admin can add employees with custom permissions to access sections of the application with user and pass.
 
-How to use the application:
+## Demo Video : [Youtube](https://www.youtube.com/watch?v=bqiwTP03Zko&t=156s)
+
+## How to use the application:
 This Login frame will appear when run the application after splash screen disappears. 
 
  ![loginImage](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/login.png)
@@ -32,7 +34,7 @@ Hovering on an option make it slide out with option name.
 
 ![hover](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/1.png)
 
- ## First option:
+ ### First option:
  
  ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/2.png)
  
@@ -41,32 +43,33 @@ After choosing desired category from right side and clicking on targetted table.
 
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/3.png)
 
-### 1-Reserve.
+#### 1-Reserve.
 
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/4.png)
 
 
-### 2-Add Food: 
+#### 2-Add Food: 
 
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/5.png)
 
 
-### 3-History: 
+#### 3-History: 
 
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/6.png)
 
 
- ### 4-Check out: 
+ #### 4-Check out: 
  
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/7.png)
 
 
 
-## Second Option: 
+### Second Option: 
 
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/8.png)
  You can add table with auto generated number or with custom number.
-## Third Option: 
+ 
+### Third Option: 
 
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/9.png)
 
@@ -75,7 +78,7 @@ By clicking add food you will get a pop up frame to add new food item to menu.
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/10.png)
 
 
-## Fourth Option: 
+### Fourth Option: 
 
 ![Main](https://github.com/Ahmedmmy97/Restaurant-POS-System/blob/master/images/10.png)
 
